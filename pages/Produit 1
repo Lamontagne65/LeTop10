@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Top 10 Perceuses 2025</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+<section>
+<h1>Top 10 Perceuses 2025</h1>
+<p>Voici notre sélection des meilleures perceuses de l’année : sans fil, percussion et usage pro.</p>
+
+<div class="product">
+  <img src="https://via.placeholder.com/150">
+  <div>
+    <h2>Perceuse 1</h2>
+    <p>Puissante, compact, autonomie longue.</p>
+    <a class="btn" href="https://amazon.fr/produit1?tag=TON-ID-AFFILIE">Voir sur Amazon</a>
+  </div>
+</div>
+
+<div class="product">
+  <img src="https://via.placeholder.com/150">
+  <div>
+    <h2>Perceuse 2</h2>
+    <p>Idéale pour travaux domestiques, légère.</p>
+    <a class="btn" href="https://amazon.fr/produit2?tag=TON-ID-AFFILIE">Voir sur Amazon</a>
+  </div>
+</div>
+
+<!-- Répète jusqu'à 10 produits -->
+
+</section>
+
+</body>
+</html>
